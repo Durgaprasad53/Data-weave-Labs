@@ -1,1 +1,0 @@
-payload filter $.Year>2019
