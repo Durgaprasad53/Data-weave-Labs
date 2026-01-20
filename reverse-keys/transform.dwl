@@ -1,0 +1,1 @@
+payload orderBy ((value, key) ->key)pluck ((value, key, index) ->(key):value) reduce ((item, accumulator) ->item ++ accumulator )
